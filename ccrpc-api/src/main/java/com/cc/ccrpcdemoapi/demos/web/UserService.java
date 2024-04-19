@@ -1,5 +1,6 @@
 package com.cc.ccrpcdemoapi.demos.web;
 
+
 import com.cc.ccrpccore.demos.annotion.RpcProvider;
 
 @RpcProvider

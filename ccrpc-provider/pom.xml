@@ -32,10 +32,11 @@
         </dependency>
         <dependency>
             <groupId>com.cc</groupId>
-            <artifactId>ccrpc-core</artifactId>
+            <artifactId>ccrpc-api</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
+
     </dependencies>
     <dependencyManagement>
         <dependencies>
