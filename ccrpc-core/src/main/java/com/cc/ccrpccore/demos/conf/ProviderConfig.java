@@ -1,13 +1,11 @@
-package com.cc.ccrpcprovider.demos.config;
+package com.cc.ccrpccore.demos.conf;
 
 import com.cc.ccrpccore.demos.provider.ProviderBootStarp;
-import org.springframework.beans.factory.annotation.Configurable;
-import org.springframework.beans.factory.parsing.Problem;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class BootStrapConfig {
+public class ProviderConfig {
 
 
     @Bean

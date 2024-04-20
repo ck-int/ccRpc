@@ -12,6 +12,7 @@
         <module>ccrpc-api</module>
         <module>ccrpc-core</module>
         <module>ccrpc-provider</module>
+        <module>ccrpc-consumer</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
